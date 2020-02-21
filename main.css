@@ -1,0 +1,32 @@
+
+
+        .black-text{
+    color:black; 
+}
+.yellow-text{
+    color:rgb(0, 247, 255);
+}
+.font{
+    font-size: 90px;
+}
+.body-background{
+    background-color:red;
+}
+
+.img-div {
+    cursor: pointer;
+    
+   
+}
+
+.img-caption{
+    
+    width:400px;
+    height:400px;
+}
+.tributo-info{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+.tribute-link{
+color:yellow; 
+}
